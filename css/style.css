@@ -26,6 +26,14 @@ body{
     border: 1px solid black;
     margin: 0 auto;
 }
+
 #tagline{
     margin: 30px;
+}
+
+#footer{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding-block: 0.5em;
 }
